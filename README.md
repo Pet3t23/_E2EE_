@@ -14,7 +14,3 @@ Proyecto académico en **C++** que implementa un sistema de mensajería cifrada 
 - Librería **OpenSSL** instalada.
 - **Windows** con Winsock2.
 
-## 🖥 Uso
-### Servidor
-```bash
-
